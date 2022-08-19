@@ -15,7 +15,6 @@ from m3gnet.models import Potential
 
 PLATFORM = platform.platform()
 
-# test test 12
 
 class PotentialTrainer:
     """
